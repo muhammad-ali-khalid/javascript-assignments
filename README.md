@@ -1,2 +1,2 @@
 # javascript-assignments
-Solution of Javascript assignments from jonas Schmedtmann's course.
+Solution of Javascript assignments from Jonas Schmedtmann's course.
